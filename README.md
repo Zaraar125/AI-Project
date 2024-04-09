@@ -31,5 +31,4 @@ This project aims to classify memes into three categories: Positive, Negative, o
 ## Usage
 1. Clone the repository: 
 
-## The following is the link for the dataset :
-## https://drive.google.com/file/d/1BW0DKYWtDdPMoVjuuCJ_E8TMDzSxjASb/view?usp=sharing
+## Dataset Link: https://drive.google.com/file/d/1BW0DKYWtDdPMoVjuuCJ_E8TMDzSxjASb/view?usp=sharing
